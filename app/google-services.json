@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928785957212",
+    "project_id": "authenticator-aaa",
+    "storage_bucket": "authenticator-aaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928785957212:android:3f766b89461cab97ed8199",
+        "android_client_info": {
+          "package_name": "com.trinketronix.authenticator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkrDh9s7LKbczIDez2HLE1x-b9Pb_KAjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
