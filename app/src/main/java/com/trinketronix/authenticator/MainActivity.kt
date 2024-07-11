@@ -103,7 +103,7 @@ fun SignInScreen(
         verticalArrangement = Arrangement.Center
     ) {
         Button(onClick = onGoogleSignIn) {
-            Text(text = "Sign in with Google")
+            Text(text = "Login with Google")
         }
 
         Spacer(modifier = Modifier.height(16.dp))
@@ -124,7 +124,7 @@ fun SignInScreen(
         )
 
         Button(onClick = { onEmailSignIn(email, password) }) {
-            Text(text = "Sign in with Email")
+            Text(text = "Login with Email")
         }
     }
 }
